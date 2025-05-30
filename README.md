@@ -4,16 +4,16 @@ A set of tasks for cracking implementations of smart-contracts with typical vuln
 
 ## Play
 
-Visit [positive.com](https://www.positive.com/ctf) (soon)
+Visit [positive.com](https://www.positive.com/ctf)
 
 OR
 
 Clone the repository and solve locally, a separate test is made for each problem
 
 ```sh
-git clone https://github.com/PositiveSecurity/PositiveCTF.git
+git clone https://github.com/PositiveSecurity/PositiveCTF-EVM.git
 
-cd PositiveCTF
+cd PositiveCTF-EVM
 
 forge install
 ```
